@@ -7,6 +7,6 @@
 <title>Page d'accueil</title>
 </head>
 <body>
-	<h1>Page d'accueil</h1>
+	<h1>Page d'accueill</h1>
 </body>
 </html>
